@@ -1,0 +1,17 @@
+h3 {
+  background: dodgerblue;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 36px;
+  line-height: 100px;
+  margin: 10px;
+  padding: 2%;
+  position: relative;
+  text-align: center;
+  outline: none;
+}
+
+h3:hover {
+  box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.301);
+  transition: 0.1s;
+}
